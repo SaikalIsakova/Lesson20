@@ -8,9 +8,7 @@ public enum Elements {
     FE("Железо",26),
     NE("Неон",10),
     HE("Гелий",2),
-    AU("Золото",79),
-    AL("Аллюминий",13),
-    LI("Литий",3),
+
     ;
 
     private String name;
